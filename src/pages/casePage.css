@@ -1,0 +1,94 @@
+.cases-brand{
+    padding: 20px 15px 30px;
+    background: #f3f3f3;
+}
+.cases-brand img{
+    width: 128px;
+}
+.case-btn-brand{
+    display: flex;
+    justify-content: space-between;
+}
+.case-btn-img{
+    width: 156px;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.demand{
+    background: #487cc0; 
+}
+.offer{
+    background: #96c13f;
+}
+.case-btn-img img{
+    width: 62px;
+}
+.project-img-layout{
+    overflow: hidden;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.project-item{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.project-icon-p1{
+    background: url(../images/project1.png) no-repeat center center;
+}
+.project-icon-p2{
+    background: url(../images/project2.png) no-repeat center center;
+}
+.project-icon-p3{
+    background: url(../images/project3.png) no-repeat center center;
+}
+.project-icon-p4{
+    background: url(../images/project4.png) no-repeat center center;
+}
+.project-icon{
+    display: block;
+    width: 100%;
+    height: 28px;
+    background-size: contain;
+}
+.live-case{
+   margin-top: 5px;
+}
+.qa-item{
+    overflow: hidden;
+    padding: 10px 15px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.qa-icon{
+    width: 24px;
+    height: 24px;
+    background: url(../images/pingjia.png) no-repeat center center;
+    background-size: contain;
+    float: left;
+}
+.qa-item-text{
+    overflow: hidden;
+    margin-left: 30px;
+}
+.qa-item-text .name{
+    font-size: 16px;
+}
+.qa-client{
+    font-size: 12px;
+    line-height: 18px;
+    color: #666;
+    text-align: left;
+    display: flex;
+}
+.qa-item-text p{
+    font-size: 12px;
+    text-align: left;
+    line-height: 180%;
+    color: #666;
+}

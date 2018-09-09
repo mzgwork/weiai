@@ -1,0 +1,37 @@
+.case-f-layout{
+    width: 100%;
+    /* height: 134px; */
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.case-f-banner{
+    width: 100%;
+    height: 134px
+}
+.f-title{
+    text-align: left;
+    margin-top: 10px;
+}
+.f-desc{
+    text-align: left;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #888888;
+}
+.case-b-layout{
+    display: flex;
+    justify-content: space-between;
+}
+.case-s-layout{
+    width: 188px;
+}
+.case-s-banner{
+    height: 120px;
+    width: 100%;
+}
+.case-content{
+    display: inline-block;
+    margin-right: 10px;
+}

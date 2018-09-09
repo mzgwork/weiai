@@ -1,0 +1,32 @@
+.news-page-banner{
+    height: 134px;
+    width: 100%;
+}
+.news-page-banner img{
+    height: 100%;
+    width: 100%;
+}
+.news-page-layout{
+    margin-top: 30px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+}
+.news-title-layout{
+    font-size: 12px;
+    color: #666;
+    text-align: left;
+    margin-top: 10px;
+}
+.news-desc-layout{
+    text-align: left;
+    margin-top: 10px;
+    color: #666;
+    font-size: 12px;
+    line-height: 180%;
+}
+.news-date-layout{
+    text-align: left;
+    font-size: 12px;
+    color: #999;
+    margin-top: 10px;
+}

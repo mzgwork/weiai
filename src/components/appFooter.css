@@ -1,0 +1,66 @@
+.public-container{
+    overflow: hidden;
+}
+.f-item-layout{
+    display: flex;
+    width: 50%;
+    float: left;
+    margin: 15px 0;
+}
+.f-img-layout{
+    width: 33px;
+    height: 33px;
+    margin: 0 10px;
+}
+.f-img-layout img{
+    height: 100%;
+}
+.f-content-layout{
+    text-align: left;
+}
+.f-content-layout span{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333;
+}
+.f-content-layout p{
+    font-size: 12px;
+    color: #999;
+    margin-top: 5px;
+}
+.contact-layout-btn{
+    height: 30px;
+    background-color: #487cc0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 4px;
+}
+.contact-layout-btn img{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.footer-layout{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding:15px 35px;
+    background-color: #f3f3f3;
+}
+.footer-left{
+    text-align: left;
+}
+.wechat-laout{
+    height: 23px;
+}
+.footer-text{
+    font-size: 14px;
+    color: #333;
+    line-height: 180%;
+}
+.qrcode-layout{
+    width: 90px;
+    height: 90px;
+}

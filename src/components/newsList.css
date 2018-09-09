@@ -1,0 +1,19 @@
+.content-layout{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e8e8e8;
+    font-size: 12px;
+    padding: 10px 0;
+}
+.desc-layout{
+    width: 70%;
+    font-size: 12px;
+    color: #333;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: left;
+}
+.date-layout{
+    color: #888;
+}

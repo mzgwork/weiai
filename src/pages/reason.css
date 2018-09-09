@@ -1,0 +1,32 @@
+.reason-layout{
+    padding: 0 15px;
+}
+.reason-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.reason-icon{
+    width: 240px;
+}
+.reason-icon img{
+    width: 100%;
+}
+.reason-text{
+    font-size: 12px;
+    color: #333;
+    line-height: 180%;
+    margin-left: 15px;
+    text-align: left;
+}
+.reason-content-text{
+    font-size: 12px;
+    line-height: 180%;
+    color: #333;
+    text-align: left;
+    margin-top: 20px;
+}
+.reason-case{
+    margin: 0px -15px;
+}

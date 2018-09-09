@@ -1,0 +1,18 @@
+.news-top-item{
+    display: inline-block;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+.news-top-item.on{
+    background: #487cc0;
+    color: #fff;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.news-list-layout{
+    padding: 0 15px;
+}
